@@ -6,7 +6,8 @@ Sou um estudante de Ciências da Computação, atualmente estudo desenvolvimento
   <img width="75" height="82" src="https://github.com/user-attachments/assets/9035e264-fdac-45a5-ba9b-6fa1df5df6d9" />
   <img width="88" height="82" src="https://github.com/user-attachments/assets/70e0a2da-e9a2-4a0e-b30d-3838381a2c5a" />
   <img width="88" height="82" src="https://github.com/user-attachments/assets/ca666365-b6d0-4f8b-b64a-50314aa8d828" />
-  <img width="88" height="88" src="https://github.com/user-attachments/assets/3d218ce2-2f2b-45f6-a442-5571af44e8cd" />
+  
+
 
 
 
