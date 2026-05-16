@@ -1,6 +1,6 @@
-## Opa, e aí, beleza?! 
+## Opa, e aí, beleza?! Sou o Guilherme Abreu ;)
 
-Meu nome é Guilherme e atualmente estudo desenvolvimento Front-End, lógica de programação e estruturas de dados.
+Sou um estudante de Ciências da Computação, atualmente estudo desenvolvimento Front-End, lógica de programação e estruturas de dados.
 
 ## Tecnologias e estudos atuais
 - HTML/CSS
